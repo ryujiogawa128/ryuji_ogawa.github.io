@@ -1,0 +1,103 @@
+/* まず、style.cssにこのルールを書き入れてください。 */
+body {
+  font-size: 100%;
+  font-weight: bold;
+  background-color: yellow;
+}
+
+h1 {
+  font-size: 200%;
+  font-weight: bold;
+  text-decoration: underline;
+  color: black;
+}
+
+h2 {
+  font-size: 150%;
+  font-weight: bold;
+  text-decoration: underline;
+  color: black;
+}
+
+h3 {
+  font-size: 130%;
+  font-weight: bold;
+  color: black;
+}
+
+
+h4 {
+  font-size: 100%;
+  font-weight: bold;
+  color: blue;
+  font-size: 120%;
+}
+
+div {
+  font-size: 100%;
+  background-color: blue;
+  color: white;
+  width: 600px;
+}
+
+p {
+  font-size: 100%;
+  background-color: blue;
+  color: white;
+  width: 600px;
+}
+
+ol {
+  font-size: 100%;
+  background-color: yellow;
+  color: black;
+  width: 600px;
+}
+
+.word {
+  font-size: 200%;
+  background-color: purple;
+  color: white;
+  width: 600px;
+  /* height: 300px; */
+  font-weight: bold;
+  text-align: center;
+
+  background: blue;
+
+}
+
+#d {
+  color: red;
+}
+
+.little {
+  font-size: 50%;
+}
+
+.green {
+  color: green;
+}
+
+button {
+  /* padding: 8px 15px; */
+  font-size: 100%;
+  font-weight: bold;
+  color: black;
+  /* background: pink; */
+  /* color: #fff; */
+  /* border: none; */
+}
+
+
+.btn:hover {
+  opacity: 0.7;
+}
+
+#text {
+  font-size: 32px;
+  width: 600px;
+  word-wrap: break-word;
+}
+
+/* ここにルールを足していきましょう。*/
